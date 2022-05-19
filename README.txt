@@ -2,7 +2,7 @@
 - 👀 I’m interested in something
 - 🌱 I’m currently learning nothing (yet)
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me _**you cant**_
+- 📫 How to reach me you cant
 
 <!---
 Endeprey1247/Endeprey1247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
