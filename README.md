@@ -4,6 +4,12 @@
 
 ---
 
+## Still learning on:
+
+[Godot](https://github.com/godotengine/godot), [Luau](https://github.com/luau-lang/luau), and [Writing](https://en.wikipedia.org/wiki/Writing)
+
+---
+
 to reach me:
 - raditya_abimanyu_34tkj@student.smktelkom-mlg.sch.id (Rarely),
 - uyefafa09@gmail.com (Rarely),
