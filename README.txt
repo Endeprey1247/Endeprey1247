@@ -8,5 +8,3 @@
 End/Endeprey1247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Okay 🙂](https://tenor.com/view/deltarune-ralsei-okay-gif-9730775212805661297)
