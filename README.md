@@ -2,8 +2,6 @@
 
 ![okay 🙂](http://endeprey1247.wikidot.com/local--files/image-dump/okay.jpg)
 
----
-
 ## Still learning on:
 
 [Godot](https://github.com/godotengine/godot), [Luau](https://github.com/luau-lang/luau), and [Writing](https://en.wikipedia.org/wiki/Writing)
