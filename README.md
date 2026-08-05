@@ -15,3 +15,4 @@ to reach me:
 - [@Endeprey1157](https://www.instagram.com/endeprey1157/) on Instagram
 
 my server: https://discord.gg/psJgFVdKCh
+strawpage: https://endeprey1247.straw.page
